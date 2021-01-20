@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginExterno", "LoginExterno\LoginExterno.csproj", "{44E6AAEA-9D6D-4D23-8DF0-9786FB05729B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E6AAEA-9D6D-4D23-8DF0-9786FB05729B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E6AAEA-9D6D-4D23-8DF0-9786FB05729B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E6AAEA-9D6D-4D23-8DF0-9786FB05729B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E6AAEA-9D6D-4D23-8DF0-9786FB05729B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B17400D2-55AA-4944-A94D-8873E15F17DF}
+	EndGlobalSection
+EndGlobal
